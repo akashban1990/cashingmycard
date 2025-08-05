@@ -1,3 +1,6 @@
-Initial comments/n
-Test comment/n
+Initial comments
+
+Test comment
+
 Comment from dev branch
+
